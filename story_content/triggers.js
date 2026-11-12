@@ -2,31 +2,31 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5hzXeaULZkL":
+      case "5fXpDhQs0FQ":
         Script1();
         break;
-      case "5YR8keB42fQ":
+      case "6XQj0pVS0tA":
         Script2();
         break;
-      case "6QwTfglH7wL":
+      case "5txzSugCdPe":
         Script3();
         break;
-      case "6TXj1U2Q0g1":
+      case "6djhDatYFNO":
         Script4();
         break;
-      case "6VMyDUl8T86":
+      case "5trlaPD6Y0O":
         Script5();
         break;
-      case "6e2bVcnboPO":
+      case "5lPhjfbS7Sc":
         Script6();
         break;
-      case "5ymzJDHGcoF":
+      case "5w68oxNvzfu":
         Script7();
         break;
-      case "68OPY50yzEZ":
+      case "6TE72dlqUPU":
         Script8();
         break;
-      case "67DlTTu4G83":
+      case "5eu03iL6P4M":
         Script9();
         break;
   }
@@ -184,7 +184,7 @@ target.animate(
 window.Script7 = function()
 {
   player.once(() => {
-const target = object('6KbJtF0r5Xk');
+const target = object('6Owl05CGr7s');
 const duration = 2000;
 const easing = 'ease-out';
 const id = '6Mp2S23nICx';
@@ -207,7 +207,7 @@ target.animate(
 window.Script8 = function()
 {
   player.once(() => {
-const target = object('6Owl05CGr7s');
+const target = object('5Y5L96ueBEL');
 const duration = 2000;
 const easing = 'ease-out';
 const id = '6Mp2S23nICx';
@@ -230,7 +230,7 @@ target.animate(
 window.Script9 = function()
 {
   player.once(() => {
-const target = object('5Y5L96ueBEL');
+const target = object('6KbJtF0r5Xk');
 const duration = 2000;
 const easing = 'ease-out';
 const id = '6Mp2S23nICx';
